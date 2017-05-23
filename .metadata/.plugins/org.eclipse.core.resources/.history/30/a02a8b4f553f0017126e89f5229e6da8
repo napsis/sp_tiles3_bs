@@ -1,0 +1,20 @@
+package com.example.demo.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.dao.HelloWorldDao;
+import com.example.demo.mapper.HelloWorldMapper;
+
+@Service
+public class HelloWorldService {
+	
+	@Autowired
+	private HelloWorldMapper hwDao ;
+
+	public int selectDual() {
+		return hwDao.selectDual();
+	}
+	
+	
+}

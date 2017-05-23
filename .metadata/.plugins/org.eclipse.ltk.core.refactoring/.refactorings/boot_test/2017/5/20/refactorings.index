@@ -1,0 +1,11 @@
+1494895816040	Rename resource 'config'
+1494895850998	Delete element
+1494895911549	Delete element
+1494896226753	Delete element
+1494896417353	Move 'body' to 'jsp'
+1494896896560	Move 'tiles' to 'WEB-INF'
+1494897658243	Move 'body' to 'layout'
+1494898725888	Move 'layout' to 'WEB-INF'
+1494898746484	Move 'body' to 'jsp'
+1494899104188	Rename package 'com.example.config'
+1494909029240	Move 'navi.js' to 'js'
